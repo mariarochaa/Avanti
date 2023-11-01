@@ -1,2 +1,3 @@
 # Avanti
-Atividade do Bootcamp Machine Learning da Avanti
+Atividade 1 do Bootcamp de Machine Learning da Avanti
+01/11
